@@ -1,1 +1,1 @@
-SQL to extract suspended attached employees
+SQL to extract suspended status employee
